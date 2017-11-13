@@ -1,4 +1,4 @@
-package com.example.BackEndFamily;
+package com.example.backendfamily;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
